@@ -40,7 +40,7 @@ V2Ray 跨平台定制客户端(For V2RaySocks)
 
 # 安装方法
 ```
-git clone https://github.com/Zzm317/V2Milk.git
+git clone https://github.com/lsubaa/V2Milk.git
 cd V2Milk
 cd APP
 npm install
